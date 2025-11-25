@@ -85,8 +85,8 @@ We have containerized the application to ensure it works on any machine.
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/your-username/meow-ai.git](https://github.com/your-username/meow-ai.git)
-    cd meow-ai
+    git clone https://github.com/diya-thabet/Meow-AI.git
+    cd Meow-Ai
     ```
 
 2.  **Build and Run:**
